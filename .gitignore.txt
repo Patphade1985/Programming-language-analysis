@@ -1,0 +1,74 @@
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments (ALWAYS ignore these!)
+# Examples: venv/, .venv/, env/, .env/
+venv/
+.venv/
+env/
+.env/
+
+# IDE and Editor files
+# PyCharm
+.idea/
+*.swp
+*.swo
+*~
+
+# VS Code
+.vscode/
+.history/
+
+# Jupyter Notebook checkpoints
+# This is VERY important to avoid clutter
+.ipynb_checkpoints/
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Data Files ---
+# Ignore the raw data file if it's large or sensitive
+# You are sharing the code and analysis, not necessarily the data.
+QueryResults.csv
+
+# Ignore other large data files (e.g., databases, downloaded datasets)
+*.csv
+*.data
+*.sqlite
+*.db
+*.feather
+*.parquet
+*.hdf5
+
+# Except! If you have a small, final processed dataset you want to share,
+# you can comment out the line above for specific files.
+# !final_clean_dataset.csv
