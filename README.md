@@ -3,10 +3,10 @@ Analyzing Programming Language Trends on Stack Overflow (2008-2020)
 ## Project Overview
 This project analyzes the popularity trends of programming languages over a 12-year period by examining the volume of questions tagged on Stack Overflow. By processing and visualizing this data, we can identify which languages have grown, which have declined, and pinpoint significant trends in the software development landscape.
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge
-https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ## Objectives
 To acquire and clean a real-world, time-series dataset.
@@ -46,17 +46,21 @@ Line Plot of Relative Popularity/Rank: To compare the growth trajectories on a m
 Focus on Specific Languages: Highlighting the rise of Python, the stability of JavaScript/Java, etc.
 
 ## Key Insights & Visualizations
-1. The Rise of Python
+### 1. The Rise of Python
 Python demonstrated the most significant growth trajectory, particularly after 2015. This surge correlates with its rising dominance in data science, machine learning, and DevOps.
-https://images/python_growth.png <- (You will create and save this image)
+![Python Growth Plot](images/python_growth.png)
 
-2. The Mainstays: JavaScript and Java
+### 2. The Mainstays: JavaScript and Java
 JavaScript and Java maintained consistently high volumes of discussion throughout the entire period, underscoring their foundational and enduring role in web and enterprise development.
-https://images/mainstays_plot.png
+![Mainstays Plot](images/mainstays_plot.png)
 
-3. The Adoption of New Languages
+### 3. The Adoption of New Languages
 Newer languages like Go (introduced in 2009) and Swift (introduced in 2014) show classic adoption S-curves, quickly gaining mindshare after their release.
-https://images/new_languages_plot.png
+![New Languages Plot](images/new_languages_plot.png)
+
+## 🔗 Links
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Portfolio](https://your-portfolio-website.com)
 
 # How to Run This Project
 Clone the repository:
@@ -88,7 +92,6 @@ Jupyter Notebook: For an interactive and documented coding environment.
 ## Conclusion
 This analysis provides a data-backed look into the evolving trends of programming languages. It highlights the rapid growth of Python, the stability of established giants, and the life cycle of newer technologies. The skills demonstrated here—data cleaning, processing, visualization, and interpretation—are directly applicable to real-world data analysis and business intelligence tasks.
 
-🔗 Links
-LinkedIn
+## 🔗 Links
+- [LinkedIn](https://linkedin.com/in/your-profile)
 
-Portfolio
