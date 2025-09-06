@@ -43,6 +43,7 @@ env/
 .history/
 
 # Jupyter Notebook checkpoints
+
 # This is VERY important to avoid clutter
 .ipynb_checkpoints/
 
@@ -60,7 +61,7 @@ Thumbs.db
 # You are sharing the code and analysis, not necessarily the data.
 QueryResults.csv
 
-# Ignore other large data files (e.g., databases, downloaded datasets)
+# Ignore other large data files (e.g., databases, downloaded datasets but not graphs)
 *.csv
 *.data
 *.sqlite
