@@ -47,7 +47,7 @@ Focus on Specific Languages: Highlighting the rise of Python, the stability of J
 
 ## Key Insights & Visualizations
 ### 1. The Rise of Python
-Python demonstrated the most significant growth trajectory, particularly after 2015. This surge correlates with its rising dominance in data science, machine learning, and DevOps.
+Python dgrowth trajectory,surpasses Java particularly after 2017. This surge correlates with its rising dominance in data science, machine learning, and DevOps.
 ![Python Growth Plot](https://github.com/Patphade1985/Programming-language-analysis/blob/faef4b8f40f6bbb3c45c923362e6601a19224aaa/Graphs/download%20(3).png)
 
 ### 2. The Mainstays: JavaScript and Java
