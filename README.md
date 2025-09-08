@@ -55,7 +55,7 @@ JavaScript and Java maintained consistently high volumes of discussion throughou
 ![Mainstays Plot](https://github.com/Patphade1985/Programming-language-analysis/blob/0257bb7058c175e53e8657cf4573fc3ca2def8be/Graphs/download%20(6).png)
 
 ## 🔗 Links
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://linkedin.com/in/patrick-chimadzuma)
   
 # How to Run This Project
 Clone the repository:
