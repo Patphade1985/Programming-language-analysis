@@ -54,10 +54,6 @@ Python dgrowth trajectory,surpasses Java particularly after 2017. This surge cor
 JavaScript and Java maintained consistently high volumes of discussion throughout the entire period, underscoring their foundational and enduring role in web and enterprise development.
 ![Mainstays Plot](https://github.com/Patphade1985/Programming-language-analysis/blob/0257bb7058c175e53e8657cf4573fc3ca2def8be/Graphs/download%20(6).png)
 
-### 3. The Adoption of New Languages
-Newer languages like Go (introduced in 2009) and Swift (introduced in 2014) show classic adoption S-curves, quickly gaining mindshare after their release.
-![New Languages Plot](images/new_languages_plot.png)
-
 ## 🔗 Links
 - [LinkedIn](https://linkedin.com/in/your-profile)
 - [Portfolio](https://your-portfolio-website.com)
