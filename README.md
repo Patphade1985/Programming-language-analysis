@@ -88,5 +88,5 @@ Jupyter Notebook: For an interactive and documented coding environment.
 This analysis provides a data-backed look into the evolving trends of programming languages. It highlights the rapid growth of Python, the stability of established giants, and the life cycle of newer technologies. The skills demonstrated here—data cleaning, processing, visualization, and interpretation—are directly applicable to real-world data analysis and business intelligence tasks.
 
 ## 🔗 Links
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://linkedin.com/in/patrick-chimadzuma) 
 
